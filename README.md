@@ -52,10 +52,10 @@ Released in 2002 under G-Series, *Onno Shomoy* ("Another Time") is Artcell's rev
 
 | | |
 | :---: | :---: |
-| <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BFront-Back%5D.jpg" width="300" alt="2. Outer Slipcase / Gatefold (Front & Back)" /><br><sub><b>2. Outer Slipcase / Gatefold (Front & Back)</b></sub> |
-| <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BArtwork%5D.jpg" width="300" alt="3. Cover Artwork" /><br><sub><b>3. Cover Artwork</b></sub> | <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BBooklet%5D.jpg" width="300" alt="4. Lyric Booklet" /><br><sub><b>4. Lyric Booklet</b></sub> |
-| <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BInlay%5D.jpg" width="300" alt="5. Tray Inlay" /><br><sub><b>5. Tray Inlay</b></sub> | <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
-| <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BInlay-Back%5D.jpg" width="300" alt="7. Back Inlay" /><br><sub><b>7. Back Inlay</b></sub> | <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BBack%5D.jpg" width="300" alt="8. Back Cover" /><br><sub><b>8. Back Cover</b></sub> |
+| <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BFront%5D.jpg" width="300" alt="2. Front Cover (Alternative Scan)" /><br><sub><b>2. Front Cover (Alternative Scan)</b></sub> |
+| <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BArtwork%5D.jpg" width="300" alt="3. Gatefold Artwork" /><br><sub><b>3. Gatefold Artwork</b></sub> | <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BBooklet%5D.jpg" width="300" alt="4. Booklet & Lyrics" /><br><sub><b>4. Booklet & Lyrics</b></sub> |
+| <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BInlay%5D.jpg" width="300" alt="5. Tray Inlay Artwork" /><br><sub><b>5. Tray Inlay Artwork</b></sub> | <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
+| <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BInlay-Back%5D.jpg" width="300" alt="7. Back Inset" /><br><sub><b>7. Back Inset</b></sub> | <img src="Onno%20Shomoy/Album%20Cover/Onno%20Shomoy%20%5BBack%5D.jpg" width="300" alt="8. Back Cover" /><br><sub><b>8. Back Cover</b></sub> |
 
 ---
 
@@ -95,7 +95,7 @@ Released in April 2006, *Oniket Prantor* ("No Man's Land") is widely regarded as
 | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet (Part 2)" /><br><sub><b>3. Booklet (Part 2)</b></sub> | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BBooklet-3%5D.jpg" width="300" alt="4. Booklet (Part 3)" /><br><sub><b>4. Booklet (Part 3)</b></sub> |
 | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BBooklet-4%5D.jpg" width="300" alt="5. Booklet (Part 4)" /><br><sub><b>5. Booklet (Part 4)</b></sub> | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BBooklet-5%5D.jpg" width="300" alt="6. Booklet (Part 5)" /><br><sub><b>6. Booklet (Part 5)</b></sub> |
 | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BBooklet-6%5D.jpg" width="300" alt="7. Booklet (Part 6)" /><br><sub><b>7. Booklet (Part 6)</b></sub> | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BBooklet-7%5D.jpg" width="300" alt="8. Booklet (Part 7)" /><br><sub><b>8. Booklet (Part 7)</b></sub> |
-| <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BInset-Front%5D.jpg" width="300" alt="9. Inset (Front)" /><br><sub><b>9. Inset (Front)</b></sub> | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BInlay-1%5D.jpg" width="300" alt="10. Tray Inlay" /><br><sub><b>10. Tray Inlay</b></sub> |
+| <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BInset-Front%5D.jpg" width="300" alt="9. Inset (Front)" /><br><sub><b>9. Inset (Front)</b></sub> | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BInlay-1%5D.jpg" width="300" alt="10. Inlay (Part 1)" /><br><sub><b>10. Inlay (Part 1)</b></sub> |
 | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BCD%5D.jpg" width="300" alt="11. Compact Disc (CD)" /><br><sub><b>11. Compact Disc (CD)</b></sub> | <img src="Oniket%20Prantor/Album%20Cover/Oniket%20Prantor%20%5BBack%5D.jpg" width="300" alt="12. Back Cover" /><br><sub><b>12. Back Cover</b></sub> |
 
 ---
