@@ -108,6 +108,10 @@ Released in April 2006, *Oniket Prantor* ("No Man's Land") is widely regarded as
 - **Record Label:** Asiatic Mindshare
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+<p align="center">
+  <img src="Otritio/Album%20Cover/Album.jpg" width="300" alt="Otritio Album Cover" />
+</p>
+
 ### 📖 About the Album
 Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* ("The Not-Third") embodies the band's matured sound, modern production, and relentless musical identity. Featuring hard-hitting riffs, signature progressive basslines, and reflective lyrical journeys, the album brings long-awaited studio master recordings of fan anthems and new compositions including *"Baksho Bondi"*, *"Biprotip"*, *"Oshomapto Shantona"*, and *"Smritir Ayna"*.
 
@@ -119,6 +123,21 @@ Marking Artcell's monumental return 17 years after *Oniket Prantor*, *Otritio* (
 - [**Artcell - Otritio**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Otritio.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Otritio.flac?download=true)
 - [**Artcell - Protiti - Instrumental**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Protiti%20-%20Instrumental.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Protiti%20-%20Instrumental.flac?download=true)
 - [**Artcell - Smritir Ayna**](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Smritir%20Ayna.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Artcell/master/Otritio/Artcell%20-%20Smritir%20Ayna.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Otritio/Album%20Cover/Album.jpg" width="300" alt="1. Front Cover (Album)" /><br><sub><b>1. Front Cover (Album)</b></sub> | <img src="Otritio/Album%20Cover/Limited%20Edition%20Box.jpg" width="300" alt="2. Limited Edition Box (Front)" /><br><sub><b>2. Limited Edition Box (Front)</b></sub> |
+| <img src="Otritio/Album%20Cover/Limited%20Edition%20Box%20-%202.jpg" width="300" alt="3. Limited Edition Box (Angle)" /><br><sub><b>3. Limited Edition Box (Angle)</b></sub> | <img src="Otritio/Album%20Cover/Limited%20Edition%20Box%20-%203.jpg" width="300" alt="4. Limited Edition Box (Side)" /><br><sub><b>4. Limited Edition Box (Side)</b></sub> |
+| <img src="Otritio/Album%20Cover/Limited%20Edition%20Box%20-%204.jpg" width="300" alt="5. Limited Edition Box (Back)" /><br><sub><b>5. Limited Edition Box (Back)</b></sub> | <img src="Otritio/Album%20Cover/Limited%20Edition%20Box%20-%205.jpg" width="300" alt="6. Limited Edition Box (Contents)" /><br><sub><b>6. Limited Edition Box (Contents)</b></sub> |
+| <img src="Otritio/Album%20Cover/Booklet.jpg" width="300" alt="7. Lyric Booklet (Front)" /><br><sub><b>7. Lyric Booklet (Front)</b></sub> | <img src="Otritio/Album%20Cover/Booklet%20-%202.jpg" width="300" alt="8. Lyric Booklet (Part 2)" /><br><sub><b>8. Lyric Booklet (Part 2)</b></sub> |
+| <img src="Otritio/Album%20Cover/Booklet%20-%203.jpg" width="300" alt="9. Lyric Booklet (Part 3)" /><br><sub><b>9. Lyric Booklet (Part 3)</b></sub> | <img src="Otritio/Album%20Cover/Booklet%20-%204.jpg" width="300" alt="10. Lyric Booklet (Part 4)" /><br><sub><b>10. Lyric Booklet (Part 4)</b></sub> |
+| <img src="Otritio/Album%20Cover/Artwork%20-%201.jpg" width="300" alt="11. Artwork Card (Baksho Bondi)" /><br><sub><b>11. Artwork Card (Baksho Bondi)</b></sub> | <img src="Otritio/Album%20Cover/Artwork%20-%202.jpg" width="300" alt="12. Artwork Card (Biprotip)" /><br><sub><b>12. Artwork Card (Biprotip)</b></sub> |
+| <img src="Otritio/Album%20Cover/Artwork%20-%203.jpg" width="300" alt="13. Artwork Card (Smritir Ayna)" /><br><sub><b>13. Artwork Card (Smritir Ayna)</b></sub> | <img src="Otritio/Album%20Cover/Artwork%20-%204.jpg" width="300" alt="14. Artwork Card (Oshomapto Shantona)" /><br><sub><b>14. Artwork Card (Oshomapto Shantona)</b></sub> |
+| <img src="Otritio/Album%20Cover/Artwork%20-%205.jpg" width="300" alt="15. Artwork Card (Otritio)" /><br><sub><b>15. Artwork Card (Otritio)</b></sub> | <img src="Otritio/Album%20Cover/Artwork%20-%206.jpg" width="300" alt="16. Artwork Card (Protiti)" /><br><sub><b>16. Artwork Card (Protiti)</b></sub> |
+| <img src="Otritio/Album%20Cover/Flag.jpg" width="300" alt="17. Limited Edition Band Flag" /><br><sub><b>17. Limited Edition Band Flag</b></sub> | <img src="Otritio/Album%20Cover/Sticker.jpg" width="300" alt="18. Artcell Logo Sticker" /><br><sub><b>18. Artcell Logo Sticker</b></sub> |
+| <img src="Otritio/Album%20Cover/Logo.jpg" width="300" alt="19. Official Band Insignia" /><br><sub><b>19. Official Band Insignia</b></sub> | <img src="Otritio/Album%20Cover/Art.jpg" width="300" alt="20. Concept Art" /><br><sub><b>20. Concept Art</b></sub> |
 
 ---
 
